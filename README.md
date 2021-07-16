@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KygoSkyrus
 - 👀 I’m interested in Web Development
 - 💞️ I’m looking to collaborate on any web development project
-- 💞️ I'm looking for internship
 - 📫 To reach me.. mail at kygoskyrus@gmail.com
 
 <!---
