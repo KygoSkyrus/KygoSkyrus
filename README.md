@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 Some of my projects are available at [dheerajgupta.web.app](dheerajgupta.web.app)
+- 👨‍💻 Check out my portfolio_ [Dheeraj Gupta](https://dheerajgupta.web.app)
 
 - 📫 How to reach me **kygoskyrus@gmail.com**
 
